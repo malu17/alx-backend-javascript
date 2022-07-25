@@ -10,7 +10,7 @@
 * [Metaprogramming](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/#symbolspecies)
 
 ## Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/2012/04/feynman-technique/), without the help of Google:
+At the end of this project, you are expected to be able to [explain to anyone]malu17](https://github.com/malu17)
 ### General
 * How to define a Class
 * How to add methods to a class
@@ -35,5 +35,14 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 10. Vroom
 * [x] 11. EVCar
 
+## ## Author
 ## Software engineer
-J
+
+## :enter_belu: 
+* **elias fiseha** - [malu17](https://github.com/malu17)
+
+## :mega: Acknowledgments
+
+* alx School (providing guidance)
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
+
