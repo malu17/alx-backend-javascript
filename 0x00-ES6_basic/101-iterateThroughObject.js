@@ -9,3 +9,4 @@ export default function iterateThroughObject(reportWithIterator) {
   }
   return names;
 }
+n
