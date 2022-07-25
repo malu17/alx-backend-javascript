@@ -1,7 +1,7 @@
 # 0x10. ES6 classes
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.alx.com/)**  
+:bust_in_silhouette: by Jelias fiseha, Engineering Manager at Uber Works  
+:copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: classes | javascript | metaprogramming | syntactical sugar
 
 ## Resources
