@@ -10,4 +10,3 @@ export default function createReportObject(employeesList) {
   };
   return result;
 }
-n
