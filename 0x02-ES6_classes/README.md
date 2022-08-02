@@ -28,7 +28,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 ## :enter_belu: 
 * **elias fiseha** - [malu17](https://github.com/malu17)
 
-## :mega: Acknowledgments
+## :mega: Acknowledgments.
 
 * alx School (providing guidance)
 [Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
