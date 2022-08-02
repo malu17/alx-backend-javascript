@@ -29,11 +29,11 @@ At the end of this project, you are expected to be able to [explain to anyone]ma
 * [x] 4. Pricing
 * [x] 5. A Building
 * [x] 6. Inheritance
-* [x] 7. Airport
-* [x] 8. Primitive - Holberton Class
-* [x] 9. Hoisting
-* [x] 10. Vroom
-* [x] 11. EVCar
+* [x] 7. trin
+* [x] 8. Primitive 
+* [x] 9. host
+* [x] 10. room
+* [x] 11. ECar
 
 ## ## Author
 ## Software engineer
