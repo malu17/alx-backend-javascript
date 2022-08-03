@@ -1,14 +1,14 @@
- Specializations
+ ## Specializations
 ## alx-web_back_end
 ### :copyright: **[alx School](https://www.alx.com/)**
 
 ## Projects
 :open_file_folder:
+* [x] 0x00-pascal_triangle
+* [x] 0x01. Lockboxes
 
-* [x] 577 0x00. ES6 Basics
-* [x] 578 0x01 ES6 Promises
-* [x] 579 0x2. ES6 classes
-* [x] 580 0x3. ES6 data manipulation
+## Requirements
+A ```README.md``` file at the root of the folder of the project is mandatory
 
 # Software engineer
 ## :enter_belu: 
