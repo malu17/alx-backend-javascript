@@ -4,9 +4,11 @@
 
 ## Projects
 :open_file_folder:
-* [x] 0x00-pascal_triangle
-* [x] 0x01. Lockboxes
-
+* [x] 0x00-ES6_basic
+* [x] 0x01-ES6_promise
+* [x] 0x02-ES6_classes
+* [x] 0x03-ES6_data_manipulation
+* [x] 0x04-TypeScript
 ## Requirements
 A ```README.md``` file at the root of the folder of the project is mandatory
 
