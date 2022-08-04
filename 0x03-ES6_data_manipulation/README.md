@@ -1,6 +1,6 @@
 # 0x11. ES6 data manipulation
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by elias fiseha, Engineering Manager  
+:bust_in_silhouette: by elias fiseha, software Engineer
 :copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: filter | javascript | map | reduce | set | weak link
 
