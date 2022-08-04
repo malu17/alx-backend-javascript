@@ -1,6 +1,6 @@
 # 0x01. ES6 Promises
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: ela, software Engineer 
+:bust_in_silhouette: elias fiseha, software Engineer 
 :copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: async | await | catch | javascript | promise | promises | resolve | then
 
