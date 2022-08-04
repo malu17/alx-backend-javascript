@@ -315,3 +315,12 @@ Create two functions named sumMajorCredits and sumMinorCredits in task_5/js/main
   -  Each function takes two arguments subject1 and subject2
   -  sumMajorCredits returns MajorCredits value and sumMinorCredits returns MinorCredits value
   -  Each function sums the credits of the two subjects
+
+## Software engineer
+## :enter_belu: 
+* **elias fiseha** - [malu17](https://github.com/malu17)
+
+## :mega: Acknowledgments
+
+* alx School (providing guidance)
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17)
