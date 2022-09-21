@@ -1,7 +1,7 @@
-# 0x13. Unittests in JS
-:open_file_folder: Specializations - Web Stack programming ― Back-end  
-:bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**  
+# 0x06. Unittests in JS
+:open_file_folder: Specializations  
+:bust_in_silhouette: by eliyas fiseha.
+:copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: chai | integration tests | javascript | mocha | sinon | spies | stubs | test suites | unit tests
 
 ## Resources
