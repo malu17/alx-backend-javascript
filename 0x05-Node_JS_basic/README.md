@@ -41,7 +41,6 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [ ] 8. Organize a complex HTTP server using Express
 
 # Software engineer
-## :enter_belu: 
 * **elias fiseha** - [malu17](https://github.com/malu17)
 
 ## :mega: Acknowledgments
