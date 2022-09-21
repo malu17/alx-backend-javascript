@@ -41,5 +41,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 9. Regex integration testing
 * [ ] 10. Deep equality & Post integration testing
 
-## Software engineer
-[Javier Andrés GP](https://www.javierandresgp.com)
+# Software engineer
+* **elias fiseha** - [malu17](https://github.com/malu17)
+
+## :mega: Acknowledgments
+
+* alx School (providing guidance)
+[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17).
